@@ -6,9 +6,9 @@ Libraries:
 [node.js](https://nodejs.org/en/)
 
 #Npm installs
-1.`npm i requirejs`
-2.`npm i cheerio`
-3.`npm install -g npm`
+<br/> `npm i requirejs`
+<br/> `npm i cheerio`
+<br/> `npm install -g npm`
 
 Pseudo code:
 
