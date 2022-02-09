@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-
+###Web Scraper
 Libraries:
 <br/>[require.js](https://requirejs.org/)
 <br/>[cheerio.js](https://cheerio.js.org/)
