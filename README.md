@@ -1,4 +1,4 @@
-###Web Scraper
+### Web Scraper too capture SVGS(Or realy any content of a website. NOTE is only set too go one layer deep)
 Libraries:
 <br/>[require.js](https://requirejs.org/)
 <br/>[cheerio.js](https://cheerio.js.org/)
