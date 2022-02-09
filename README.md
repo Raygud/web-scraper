@@ -5,7 +5,7 @@ Go into desired website -> Find all links -> Sorts links into external and inter
 
   _______________________________________________
 
-Require("X") imports the chosen moduels(equal too import in python or include in C) 
+<h1 style="Color:red;">Require("X")</h1> imports the chosen moduels(equal too import in python or include in C) 
 
   _______________________________________________
 
