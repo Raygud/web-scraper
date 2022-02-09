@@ -5,7 +5,9 @@ Libraries:
 [cheerio.js](https://cheerio.js.org/)
 [node.js](https://nodejs.org/en/)
 
-<span role="button" tabindex="0">npm i <!-- -->requirejs</span>`npm install -g npm`
+#Npm installs
+`npm i requirejs`
+`npm i cheerio`
 `npm install -g npm`
 
 Pseudo code:
