@@ -5,7 +5,9 @@ Libraries:
 [cheerio.js](https://cheerio.js.org/)
 [node.js](https://nodejs.org/en/)
 
+<span role="button" tabindex="0">npm i <!-- -->requirejs</span>`npm install -g npm`
 `npm install -g npm`
+
 Pseudo code:
 
 Go into desired website -> Find all links -> Sorts links into external and internal links  (External beings links starting with https Or www) -> put all internal links into an array ->  loop trough all internal links arrays and find desires data.
