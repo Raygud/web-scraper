@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 
 Libraries:
-[require.js](https://requirejs.org/)
-[cheerio.js](https://cheerio.js.org/)
-[node.js](https://nodejs.org/en/)
+<br/>[require.js](https://requirejs.org/)
+<br/>[cheerio.js](https://cheerio.js.org/)
+<br/>[node.js](https://nodejs.org/en/)
 
 #Npm installs
 <br/> `npm i requirejs`
