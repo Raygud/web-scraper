@@ -16,8 +16,7 @@ sconsole.error('error:', error); // Print the error if one occurred
 
   if(!err && resp.statusCode == 200)
 
-  this code bit says that if there is no error and our status code is 200(The HTTP 200 OK success status response code indicates that the request has succeeded) then do something.
-a```
+  this code bit says that if there is no error and our status code is 200(The HTTP 200 OK success status response code indicates that the request has succeeded) then do something```
 <br/> ```npm i cheerio```
 <br/> ```npm install -g npm```
 
