@@ -10,7 +10,14 @@ sdf
 sa
 fsd
 f
-sa```
+sconsole.error('error:', error); // Print the error if one occurred
+  console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received(200, 404 etc)
+  console.log('body:', body); // Print the HTML for the Crawled Page.
+
+  if(!err && resp.statusCode == 200)
+
+  this code bit says that if there is no error and our status code is 200(The HTTP 200 OK success status response code indicates that the request has succeeded) then do something.
+a```
 <br/> ```npm i cheerio```
 <br/> ```npm install -g npm```
 
