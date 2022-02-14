@@ -5,7 +5,12 @@ Libraries:
 <br/>[node.js](https://nodejs.org/en/)
 
 #Npm installs
-<br/> ```npm i requirejs```
+<br/> ```npm i requirejs fds
+sdf
+sa
+fsd
+f
+sa```
 <br/> ```npm i cheerio```
 <br/> ```npm install -g npm```
 
